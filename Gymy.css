@@ -121,6 +121,11 @@ img {
 	width: auto;
 }
 
+#backgroundImage {
+	height: 100vh;
+	
+}
+
 .clear {
 	clear: both;
 }
